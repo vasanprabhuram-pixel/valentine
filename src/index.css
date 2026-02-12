@@ -1,0 +1,50 @@
+body {
+  background-image: url("assets/img-2.jpg");
+ 
+}
+
+.love{
+  display: flex;
+  position: relative;
+  justify-content: center;   
+  align-items: center;       
+  height: 50vh;
+  width: 50vw;          
+  margin-left: 380px;
+  margin-top: 200px;
+  background-color: aqua;
+}
+
+.ques{
+  position:absolute;
+  top: 0px;
+  font-family:cursive;
+  font-size: medium;
+}
+
+.button{
+  display: flex;
+  position:absolute;
+  justify-content: center;
+  align-items: center; 
+}
+
+.yes{
+  font-size: 50px;
+  margin: 50px;
+  border-radius: 10px;
+}
+
+.no{
+  font-size: 50px;
+  margin: 50px;
+  border-radius: 10px;
+}
+
+.gif{
+  display: flex;
+  justify-content: center;   
+  align-items: center;   
+  height: 100vh;
+
+}
